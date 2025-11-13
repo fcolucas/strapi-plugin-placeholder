@@ -19,7 +19,7 @@
   },
   "type": "commonjs",
   "engines": {
-    "node": ">=12.x.x <=20.x.x",
+    "node": ">=12.x.x <=22.x.x",
     "npm": ">=6.0.0"
   },
   "exports": {
