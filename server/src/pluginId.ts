@@ -1,1 +1,1 @@
-export const PLUGIN_ID = 'strapi-plugin-placeholder';
+export const PLUGIN_ID = 'placeholder';
